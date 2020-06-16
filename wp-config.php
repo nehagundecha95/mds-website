@@ -38,10 +38,10 @@
 // define( 'DB_COLLATE', '' );
 
 
-define(‘DB_NAME’, "heroku_3b3c17ea1f78d1d");
-define(‘DB_USER’, "bdd8565b86e039");
-define(‘DB_PASSWORD’, "6e920303");
-define(‘DB_HOST’, "us-cdbr-east-05.cleardb.net");
+define(‘DB_NAME’, 'heroku_3b3c17ea1f78d1d');
+define(‘DB_USER’, 'bdd8565b86e039');
+define(‘DB_PASSWORD’, '6e920303');
+define(‘DB_HOST’, 'us-cdbr-east-05.cleardb.net');
 define(‘DB_CHARSET’, ‘utf8’);
 define(‘DB_COLLATE’, ‘’);
 
